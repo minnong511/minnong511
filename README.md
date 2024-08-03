@@ -1,6 +1,10 @@
 ## 안녕하세요~ , Hello ~  👋
 ### 
 
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kzxx1234)](https://solved.ac/kzxx1234/)
 <!--
 **minnong511/minnong511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
