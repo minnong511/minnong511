@@ -2,7 +2,8 @@
 ## - 🌱 모르는 게 많아서 아직 배우는 중이에요..! ...
 
 # Langauage
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
