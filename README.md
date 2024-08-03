@@ -1,8 +1,12 @@
 # 안녕하세요~ , Hello ~  👋 잘 부탁드립니다!
-## - 🌱 모르는 게 많아서 아직 배우는 중이에요..! ...
+### - 🌱 모르는 게 많아서 아직 배우는 중이에요..! ...
 
 # Langauage
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+# Tool 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 
 
