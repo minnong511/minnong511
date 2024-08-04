@@ -12,10 +12,7 @@
 # Tool 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-
-
-
-
+# ETC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kzxx1234)](https://solved.ac/kzxx1234/)
 <!--
 **minnong511/minnong511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
