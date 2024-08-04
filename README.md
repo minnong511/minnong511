@@ -1,5 +1,7 @@
 # 안녕하세요~ , Hello ~  👋 잘 부탁드립니다!
-### - 🌱 모르는 게 많아서 아직 배우는 중이에요..! ...
+### - 🌱 모르는 게 많아서 아직 배우는 중이에요..! ... 
+### 개인 블로그
+https://toothsome-jonquil-1cd.notion.site/Computer-Vision-Deep-Learning-e4f0425ebe5d4a858c5ae51d31712ccd?pvs=4
 
 # Langauage
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
