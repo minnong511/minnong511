@@ -1,5 +1,6 @@
-# 안녕하세요~ , Hello ~  👋 잘 부탁드립니다!
-### - 🌱 모르는 게 많아서 아직 배우는 중이에요..! ... 
+# 안녕하세요~ 
+
+
 #  소속 
 [Seoultech Constructon ICT LAB](https://conict.seoultech.ac.kr/index.do)
 
