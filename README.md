@@ -5,7 +5,7 @@
 [Seoultech Constructon ICT LAB](https://conict.seoultech.ac.kr/index.do)
 
 #  BLOG
-[![Notion](assets/notion-icon.png)](https://www.notion.so/your-notion-link](https://toothsome-jonquil-1cd.notion.site/Computer-Vision-Deep-Learning-e4f0425ebe5d4a858c5ae51d31712ccd?pvs=4)
+[![Notion](https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg)](https://www.notion.so/your-notion-link](https://toothsome-jonquil-1cd.notion.site/Computer-Vision-Deep-Learning-e4f0425ebe5d4a858c5ae51d31712ccd?pvs=4)
 
 # Langauage
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
