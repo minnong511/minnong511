@@ -5,7 +5,8 @@
 [Seoultech Constructon ICT LAB](https://conict.seoultech.ac.kr/index.do)
 
 #  BLOG
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)(https://toothsome-jonquil-1cd.notion.site/Min-Hyeong-s-Computer-Vision-Deep-Learning-Blog-e4f0425ebe5d4a858c5ae51d31712ccd?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://toothsome-jonquil-1cd.notion.site/Min-Hyeong-s-Computer-Vision-Deep-Learning-Blog-e4f0425ebe5d4a858c5ae51d31712ccd?pvs=4)
+
 
 # PortFolio
 [PortFolio](https://toothsome-jonquil-1cd.notion.site/Min-Hyeong-LEE-220b089041db416fb67bec10a876362c?pvs=4)
