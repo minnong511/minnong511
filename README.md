@@ -14,6 +14,7 @@
 
 # Tool 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub%20Blog-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)]
 
 # ETC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kzxx1234)](https://solved.ac/kzxx1234/)
