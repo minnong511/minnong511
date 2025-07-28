@@ -1,5 +1,4 @@
-## 📸 Hello, I'm Min Hyeong LEE 😄
-
+# 📸 Hello, I'm Min Hyeong LEE 😄
 
 
 # Blog
