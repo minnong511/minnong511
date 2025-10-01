@@ -3,6 +3,9 @@
 # CV
 [![CV](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://toothsome-jonquil-1cd.notion.site/Min-Hyeong-LEE-220b089041db416fb67bec10a876362c?pvs=4)
 
+## LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/min-hyeong-lee-225294270/)
+
 # Langauage
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
