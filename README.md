@@ -3,7 +3,9 @@
 ## 🔗 Links
 
 [![Blog](https://img.shields.io/badge/GitHub%20Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://minnong511.github.io/)
+&nbsp;&nbsp;
 [![CV](https://img.shields.io/badge/CV-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://toothsome-jonquil-1cd.notion.site/Min-Hyeong-LEE-220b089041db416fb67bec10a876362c?pvs=4)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-hyeong-lee-225294270/)
 
 ---
@@ -11,6 +13,7 @@
 ## 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+&nbsp;&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
@@ -24,9 +27,13 @@
 ## 🛠️ Tools & Technologies
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+&nbsp;&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;&nbsp;
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
