@@ -46,6 +46,3 @@
 
 ---
 
-## 🧩 Algorithm
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kzxx1234)](https://solved.ac/kzxx1234/)
