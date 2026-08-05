@@ -10,11 +10,23 @@
 
 ---
 
-## 💻 Languages
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 &nbsp;&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
+## 🎨 Frontend
+
+[![Vue](https://img.shields.io/badge/Vue-81.6%25-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/minnong511/skala-vue/search?l=vue)
+&nbsp;&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-9.3%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/minnong511/skala-vue/search?l=css)
+&nbsp;&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-9.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/minnong511/skala-vue/search?l=javascript)
+&nbsp;&nbsp;
+[![HTML](https://img.shields.io/badge/HTML-0.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/minnong511/skala-vue/search?l=html)
 
 ---
 
@@ -29,10 +41,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 &nbsp;&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;&nbsp;
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
